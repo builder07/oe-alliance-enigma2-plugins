@@ -86,7 +86,6 @@ SUBDIRS = \
 	videocolorspace \
 	vlcplayer \
 	vps \
-	vfdcontrol \
 	weatherplugin \
 	weathercomponent \
 	weathercomponenthandler \
