@@ -742,6 +742,11 @@ vps/src_py/web-data/Makefile
 vps/src_py/WebComponents/Makefile
 vps/src_py/WebComponents/Sources/Makefile
 
+vfdcontrol/Makefile
+vfdcontrol/meta/Makefile
+vfdcontrol/po/Makefile
+vfdcontrol/src/Makefile
+
 weatherplugin/Makefile
 weatherplugin/meta/Makefile
 weatherplugin/po/Makefile
